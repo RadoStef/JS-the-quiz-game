@@ -37,7 +37,7 @@ body.wrong {
 .question {
     font-size: 30px;
     text-align: center;
-    margin-bottom: 20px;
+    margin: 20px 0;
 }
 
 .container {
@@ -93,9 +93,12 @@ body.wrong {
 }
 
 .controls {
+    width: 30%;
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    flex-direction: column;
 }
 
 .hide {
@@ -108,4 +111,10 @@ body.wrong {
 
 .facts {
     margin-top: 50px;
+    line-height: 1.5;
+    padding: 20px;
+}
+
+.score {
+    margin-top: 20px;
 }
