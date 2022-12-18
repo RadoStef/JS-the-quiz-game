@@ -10,5 +10,6 @@ What I plan to add to this game?
  <li> Save and Load (Save score to the local storage (status ❌)</li>
 </ul>
 <hr>
-<h3> The game will be uploaded on url soon </h3>
+<h3> The game works well and is uploaded on the following address: </h3>
+https://sitefocus.eu/radoslav/quiz/
 Enjoy 🙂.
